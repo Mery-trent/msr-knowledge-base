@@ -31,5 +31,5 @@ jobs:
         with:
           path: src
       - id: deployment
-        uses: actions/deploy-pages@v4name: CI
+        uses: actions/deploy-pages@v4
 
