@@ -26,3 +26,18 @@ header h1{
     cursor: pointer;
     font-size: large;
 }
+.tab:hover{
+    background: greenyellow;
+}
+main{
+    padding: 0 2rem 2rem;
+}
+.panel{
+    display: none;
+    background: #fff;
+    padding: 1.5rem;
+    border: 1px solid brown,
+}
+.panel.active{
+    display: block;
+}
