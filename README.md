@@ -45,13 +45,13 @@ node tests/test.js
 
 ## Future work (remaining milestones)
 
-| Milestone | Scope | Issue |
-|-----------|-------|-------|
-| Collection Methods Content | Add 6 methods (REST APIs, GraphQL, Selenium, BeautifulSoup, Database Dumps, Manual Download) with use and pros/cons | #<n> |
-| Analysis Methods Content | Add 8 methods with type of analysis and common use cases | #<n> |
-| Publication Venues Content | Add 6 conferences and 3 journals, separated, with type, focus, and MSR relevance | #<n> |
-| Styling & Polish | Responsive layout and professional touches | #<n> |
+| Milestone | Scope |
+|-----------|-------|
+| Collection Methods Content | Add 6 methods (REST APIs, GraphQL, Selenium, BeautifulSoup, Database Dumps, Manual Download) with use and pros/cons |
+| Analysis Methods Content | Add 8 methods with type of analysis and common use cases |
+| Publication Venues Content | Add 6 conferences and 3 journals, separated, with type, focus, and MSR relevance |
+| Styling & Polish | Responsive layout and professional touches |
 
 ## AI use declaration
 
-I used Claude (an AI assistant by Anthropic) for guidance on the project workflow and for help debugging the test script.
+I used Claude (an AI assistant by Anthropic) for help debugging the test script.
